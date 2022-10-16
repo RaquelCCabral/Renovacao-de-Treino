@@ -1,0 +1,63 @@
+.box {
+    max-width: 290px;
+    margin: 30px auto;
+    min-height: 300px;
+    border: 3px solid yellow;
+    padding: 30px;
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+    line-height: 50px;
+    font-family: monospace;
+    font-size: large;
+    background-image: linear-gradient(90deg, rgba(246, 232, 15, 1) 0%, rgba(244, 131, 21, 1) 100%);
+}
+
+.objetivo{
+    max-width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.text{
+    max-width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.textarea{
+    width: 240px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-family: monospace;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.submit{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.radio{
+    accent-color: black
+}
